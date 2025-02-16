@@ -7,3 +7,11 @@ button{
     border-radius: 25px;
     font-size: 50px;
 }
+
+.image-button {
+    width: 125px;
+    height: 75px;
+    border: none;
+    background-image: url('telegram.webp');
+    background-size: cover;
+}
